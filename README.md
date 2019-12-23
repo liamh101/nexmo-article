@@ -1,5 +1,11 @@
 # Phone Debugger Simple
 
+This Repo was made in cooperature with Nexmo for creating a phone debugger.
+
+## Orignal Article
+
+https://www.nexmo.com/blog/2019/11/14/creating-a-phone-status-checker-with-nexmo-and-php-dr
+
 ## Requirements
 
 **Backend and Environment**
